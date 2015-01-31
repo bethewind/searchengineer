@@ -1,0 +1,277 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-BaseEnvironmentBase</variable>
+  <value type="int">2</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-CommandLineArguments</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-ProFile</variable>
+  <value type="QString">html-purifier.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString">html-purifier</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseDyldImageSuffix</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseTerminal</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserEnvironmentChanges</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetWorkingDirectory</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserWorkingDirectory</variable>
+  <value type="QString"></value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString">Qt4ProjectManager.Qt4RunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int">0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString">Debug</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-Debug</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <value key="QtVersionId" type="int">0</value>
+   <value key="ToolChain" type="int">2</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">2</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-Release</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <value key="QtVersionId" type="int">0</value>
+   <value key="ToolChain" type="int">2</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\Documents and Settings\All Users</value>
+    <value type="QString">APPDATA=C:\Documents and Settings\Administrator\Application Data</value>
+    <value type="QString">CLASSPATH=.;C:\Program Files\Java\jdk1.6.0_10\lib\tools.jar;C:\Program Files\Java\jdk1.6.0_10\lib\dt.jar;C:\Program Files\Java\jre6\lib\ext\QTJava.zip</value>
+    <value type="QString">CLIENTNAME=Console</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=CYJ</value>
+    <value type="QString">COMSPEC=C:\WINDOWS\system32\cmd.exe</value>
+    <value type="QString">FP_NO_HOST_CHECK=NO</value>
+    <value type="QString">HOME=C:\Documents and Settings\Administrator</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\Documents and Settings\Administrator</value>
+    <value type="QString">INCLUDE=C:\S60\devices\S60_5th_Edition_SDK_v1.0\epoc32\include;C:\Qt\2009.05\mingw\include;C:\Qt\2009.05\qt\include</value>
+    <value type="QString">JAVA_HOME=C:\Program Files\Java\jdk1.6.0_10</value>
+    <value type="QString">JSERV=C:\oracle\ora90/Apache/Jserv/conf</value>
+    <value type="QString">LIB=C:\Program Files\SQLXML 4.0\bin\;C:\Qt\2009.05\qt\lib;C:\Qt\2009.05\mingw\lib</value>
+    <value type="QString">LOGONSERVER=\\CYJ</value>
+    <value type="QString">MWCSYM2INCLUDES=C:\Program Files\Nokia\Carbide.c++ v2.0\x86Build\Symbian_Support\MSL\MSL_C\MSL_Common\Include;C:\Program Files\Nokia\Carbide.c++ v2.0\x86Build\Symbian_Support\MSL\MSL_C\MSL_Win32\Include;C:\Program Files\Nokia\Carbide.c++ v2.0\x86Build\Symbian_Support\MSL\MSL_C\MSL_X86;C:\Program Files\Nokia\Carbide.c++ v2.0\x86Build\Symbian_Support\MSL\MSL_C++\MSL_Common\Include;C:\Program Files\Nokia\Carbide.c++ v2.0\x86Build\Symbian_Support\MSL\MSL_Extras\MSL_Common\Include;C:\Program Files\Nokia\Carbide.c++ v2.0\x86Build\Symbian_Support\MSL\MSL_Extras\MSL_Win32\Include;C:\Program Files\Nokia\Carbide.c++ v2.0\x86Build\Symbian_Support\Win32-x86 Support\Headers\Win32 SDK</value>
+    <value type="QString">MWSYM2LIBRARIES=C:\Program Files\Nokia\Carbide.c++ v2.0\x86Build\Symbian_Support\Win32-x86 Support\Libraries\Win32 SDK;C:\Program Files\Nokia\Carbide.c++ v2.0\x86Build\Symbian_Support\Runtime\Runtime_x86\Runtime_Win32\Libs</value>
+    <value type="QString">MWSYM2LIBRARYFILES=MSL_All_MSE_Symbian_D.lib;gdi32.lib;user32.lib;kernel32.lib;</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=2</value>
+    <value type="QString">NUTSUFFIX=1</value>
+    <value type="QString">NUT_SUFFIXED_SEARCHING=1</value>
+    <value type="QString">OLAP_HOME=C:\oracle\ora90\olap</value>
+    <value type="QString">OPENSSL_CONF=C:\OpenSSL\bin\openssl.cfg</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=C:\Qt\2009.05\qt\bin;C:\Python26;C:\Qt\2009.05\bin;C:\Qt\2009.05\qt\bin;C:\Program Files\Nokia\PC Connectivity Solution\;C:\Qt\4.6.0-vs2008\bin;C:\Qt\2009.05\qt\bin;C:\Program Files\Nokia\Carbide.c++ v2.0\x86Build\Symbian_Tools\Command_Line_Tools;C:\Qt\4.6.0\bin;C:\Perl\bin;C:\oracle\ora90\bin;C:\oracle\ora90\Apache\Perl\5.00503\bin\mswin32-x86;C:\Program Files\Oracle\jre\1.1.8\bin;C:\Program Files\Java\jdk1.6.0_10\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\80\Tools\Binn\;C:\Program Files\Microsoft SQL Server\90\DTS\Binn\;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\Microsoft SQL Server\90\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files\Microsoft Visual Studio 8\Common7\IDE\PrivateAssemblies\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\QuickTime\QTSystem\;C:\Program Files\Common Files\Thunder Network\KanKan\Codecs;C:\Program Files\Rational\common;C:\Qt\2009.05\qt\bin;C:\Qt\2009.05\mingw\bin;C:\Qt\2009.05\mingw\mingw32\bin;C:\Program Files\Common Files\Symbian\tools;C:\Program Files\CSL Arm Toolchain\bin</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=x86 Family 6 Model 15 Stepping 13, GenuineIntel</value>
+    <value type="QString">PROCESSOR_LEVEL=6</value>
+    <value type="QString">PROCESSOR_REVISION=0f0d</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files</value>
+    <value type="QString">QTDIR=C:/Qt/2009.05/qt</value>
+    <value type="QString">QTJAVA=C:\Program Files\Java\jre6\lib\ext\QTJava.zip</value>
+    <value type="QString">RATL_RTHOME=C:\Program Files\Rational\Rational Test</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\WINDOWS</value>
+    <value type="QString">TEMP=C:\Temp</value>
+    <value type="QString">TMP=C:\Temp</value>
+    <value type="QString">TMPDIR=C:\Temp</value>
+    <value type="QString">USERDOMAIN=CYJ</value>
+    <value type="QString">USERNAME=Administrator</value>
+    <value type="QString">USERPROFILE=C:\Documents and Settings\Administrator</value>
+    <value type="QString">VS90COMNTOOLS=d:\工具\vs2008sp1\Common7\Tools\</value>
+    <value type="QString">WINDIR=C:\WINDOWS</value>
+    <value type="QString">WV_GATEWAY_CFG=C:\oracle\ora90\Apache\modplsql\cfg\wdbsvr.app</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">D:/eclipseapp/html-purifier/html-purifier.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">win32-g++</value>
+    <value type="QString">-r</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">c:/qt/2009.05/qt/bin/qmake.exe</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">D:/eclipseapp/html-purifier</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\Documents and Settings\All Users</value>
+    <value type="QString">APPDATA=C:\Documents and Settings\Administrator\Application Data</value>
+    <value type="QString">CLASSPATH=.;C:\Program Files\Java\jdk1.6.0_10\lib\tools.jar;C:\Program Files\Java\jdk1.6.0_10\lib\dt.jar;C:\Program Files\Java\jre6\lib\ext\QTJava.zip</value>
+    <value type="QString">CLIENTNAME=Console</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=CYJ</value>
+    <value type="QString">COMSPEC=C:\WINDOWS\system32\cmd.exe</value>
+    <value type="QString">FP_NO_HOST_CHECK=NO</value>
+    <value type="QString">HOME=C:\Documents and Settings\Administrator</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\Documents and Settings\Administrator</value>
+    <value type="QString">INCLUDE=C:\S60\devices\S60_5th_Edition_SDK_v1.0\epoc32\include;C:\Qt\2009.05\mingw\include;C:\Qt\2009.05\qt\include</value>
+    <value type="QString">JAVA_HOME=C:\Program Files\Java\jdk1.6.0_10</value>
+    <value type="QString">JSERV=C:\oracle\ora90/Apache/Jserv/conf</value>
+    <value type="QString">LIB=C:\Program Files\SQLXML 4.0\bin\;C:\Qt\2009.05\qt\lib;C:\Qt\2009.05\mingw\lib</value>
+    <value type="QString">LOGONSERVER=\\CYJ</value>
+    <value type="QString">MWCSYM2INCLUDES=C:\Program Files\Nokia\Carbide.c++ v2.0\x86Build\Symbian_Support\MSL\MSL_C\MSL_Common\Include;C:\Program Files\Nokia\Carbide.c++ v2.0\x86Build\Symbian_Support\MSL\MSL_C\MSL_Win32\Include;C:\Program Files\Nokia\Carbide.c++ v2.0\x86Build\Symbian_Support\MSL\MSL_C\MSL_X86;C:\Program Files\Nokia\Carbide.c++ v2.0\x86Build\Symbian_Support\MSL\MSL_C++\MSL_Common\Include;C:\Program Files\Nokia\Carbide.c++ v2.0\x86Build\Symbian_Support\MSL\MSL_Extras\MSL_Common\Include;C:\Program Files\Nokia\Carbide.c++ v2.0\x86Build\Symbian_Support\MSL\MSL_Extras\MSL_Win32\Include;C:\Program Files\Nokia\Carbide.c++ v2.0\x86Build\Symbian_Support\Win32-x86 Support\Headers\Win32 SDK</value>
+    <value type="QString">MWSYM2LIBRARIES=C:\Program Files\Nokia\Carbide.c++ v2.0\x86Build\Symbian_Support\Win32-x86 Support\Libraries\Win32 SDK;C:\Program Files\Nokia\Carbide.c++ v2.0\x86Build\Symbian_Support\Runtime\Runtime_x86\Runtime_Win32\Libs</value>
+    <value type="QString">MWSYM2LIBRARYFILES=MSL_All_MSE_Symbian_D.lib;gdi32.lib;user32.lib;kernel32.lib;</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=2</value>
+    <value type="QString">NUTSUFFIX=1</value>
+    <value type="QString">NUT_SUFFIXED_SEARCHING=1</value>
+    <value type="QString">OLAP_HOME=C:\oracle\ora90\olap</value>
+    <value type="QString">OPENSSL_CONF=C:\OpenSSL\bin\openssl.cfg</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=C:\Qt\2009.05\qt\bin;C:\Python26;C:\Qt\2009.05\bin;C:\Qt\2009.05\qt\bin;C:\Program Files\Nokia\PC Connectivity Solution\;C:\Qt\4.6.0-vs2008\bin;C:\Qt\2009.05\qt\bin;C:\Program Files\Nokia\Carbide.c++ v2.0\x86Build\Symbian_Tools\Command_Line_Tools;C:\Qt\4.6.0\bin;C:\Perl\bin;C:\oracle\ora90\bin;C:\oracle\ora90\Apache\Perl\5.00503\bin\mswin32-x86;C:\Program Files\Oracle\jre\1.1.8\bin;C:\Program Files\Java\jdk1.6.0_10\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\80\Tools\Binn\;C:\Program Files\Microsoft SQL Server\90\DTS\Binn\;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\Microsoft SQL Server\90\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files\Microsoft Visual Studio 8\Common7\IDE\PrivateAssemblies\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\QuickTime\QTSystem\;C:\Program Files\Common Files\Thunder Network\KanKan\Codecs;C:\Program Files\Rational\common;C:\Qt\2009.05\qt\bin;C:\Qt\2009.05\mingw\bin;C:\Qt\2009.05\mingw\mingw32\bin;C:\Program Files\Common Files\Symbian\tools;C:\Program Files\CSL Arm Toolchain\bin</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=x86 Family 6 Model 15 Stepping 13, GenuineIntel</value>
+    <value type="QString">PROCESSOR_LEVEL=6</value>
+    <value type="QString">PROCESSOR_REVISION=0f0d</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files</value>
+    <value type="QString">QTDIR=C:/Qt/2009.05/qt</value>
+    <value type="QString">QTJAVA=C:\Program Files\Java\jre6\lib\ext\QTJava.zip</value>
+    <value type="QString">RATL_RTHOME=C:\Program Files\Rational\Rational Test</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\WINDOWS</value>
+    <value type="QString">TEMP=C:\Temp</value>
+    <value type="QString">TMP=C:\Temp</value>
+    <value type="QString">TMPDIR=C:\Temp</value>
+    <value type="QString">USERDOMAIN=CYJ</value>
+    <value type="QString">USERNAME=Administrator</value>
+    <value type="QString">USERPROFILE=C:\Documents and Settings\Administrator</value>
+    <value type="QString">VS90COMNTOOLS=d:\工具\vs2008sp1\Common7\Tools\</value>
+    <value type="QString">WINDIR=C:\WINDOWS</value>
+    <value type="QString">WV_GATEWAY_CFG=C:\oracle\ora90\Apache\modplsql\cfg\wdbsvr.app</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">C:/Qt/2009.05/mingw/bin/mingw32-make.exe</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">D:/eclipseapp/html-purifier</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Debug</value>
+   <value type="QString">Release</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="mkspec" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.qmake</value>
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="clean" type="bool">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray">System</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+</qtcreator>
